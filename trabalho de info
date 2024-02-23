@@ -1,0 +1,16 @@
+texto endereco
+int telefone
+real salario
+int cpf
+real preco
+int temperatura
+logica casado
+data nascimento
+logica vacinado
+real preco_gasolina
+fracionado litros_gasolina
+real preco_pao
+int total_compras
+int idade
+data data_contrato
+texto nivel_escolaridade
